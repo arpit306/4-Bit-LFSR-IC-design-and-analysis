@@ -11,3 +11,8 @@ __LFSR Circuit:__
 __D Flip Flop with Asynchronous Preset:__
 
 ![FF](https://user-images.githubusercontent.com/68592620/164892097-4229472e-7e9d-448f-a428-de0d9267f3fe.png)
+
+__D Latch with Preset:__
+
+
+
