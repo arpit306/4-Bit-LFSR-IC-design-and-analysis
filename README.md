@@ -7,3 +7,7 @@ To make a 4-bit LFSR, first we need to make a 4 bit shift register. I have chose
 __LFSR Circuit:__
 
 ![schematic](https://user-images.githubusercontent.com/68592620/164891993-b400f0d0-ae36-46a1-8f71-74a1362a462d.png)
+
+__D Flip Flop with Asynchronous Preset:__
+
+![FF](https://user-images.githubusercontent.com/68592620/164892097-4229472e-7e9d-448f-a428-de0d9267f3fe.png)
