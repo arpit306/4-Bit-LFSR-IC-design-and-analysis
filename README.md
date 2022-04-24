@@ -29,7 +29,7 @@ __D Latch with Asynchronous Preset:__
 ▫️ Preset signal is high initially to set the intial state of flip flops.  
 ▫️ Analysis should be done after preset signal goes low.  
 
-![wfm](https://user-images.githubusercontent.com/68592620/164970576-d4f0dc3c-4ad4-4008-a8ff-12c2d780bafd.png)
+![wfm](https://user-images.githubusercontent.com/68592620/164976303-a5719d4f-a76a-468e-aa25-3a2f54bbf888.png)  
 
 ## Observation
 
