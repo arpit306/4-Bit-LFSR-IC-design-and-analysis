@@ -6,7 +6,7 @@ This implementation is done on Cadence Virtuoso tool and gpdk90 library. It is b
 ## Circuit-Description
 To make a 4-bit LFSR, first we need to make a 4 bit shift register. I have chosen 4 positive edge triggered D Flip-Flops with asynchronous preset inputs. This flipflop is a master-slave D latch combination. The D latch is made using CMOS Inverters, Buffers & Transmission gates for improved switching transients. Preset input is incoperated by the Latch hence by the flip flop. This asynchronous preset input is essential in order to generate the initial state of the bit pattern, which would help in better analysis of the output.  
 __Reference Circuit:__  
-![image](https://user-images.githubusercontent.com/68592620/164975092-c984a230-a3d2-4618-b588-84bfd24531c6.png)  
+![ckt](https://user-images.githubusercontent.com/68592620/164976460-98618807-8360-49f0-b083-14322adb19d1.png)  
 ## Circuit-Schematic
 The schematics of LFSR & respective circuits are shown below:
 
