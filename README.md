@@ -1,4 +1,4 @@
-# 4-Bit-LFSR-IC-design & Analysis
+# 4 Bit LFSR IC Design & Analysis
 This repository presents the IC design of a 4-Bit Linear Feedback Shift Register (LFSR) also known as Pseudo Random Binary Sequence Generator; on 90nm CMOS technology.
 This implementation is done on Cadence Virtuoso tool and gpdk90 library. It is basically a shift register with a linear function feedback. The generally used linear feedback function in LFSR is XOR. It has got many application such as counters, data bit generators, pattern generators, Pseudo random bit sequence generators as well as in data encryption & compression technologies. The working of design is verified using Circuit Schematic and Waveforms.
 ## Circuit-Description
