@@ -19,14 +19,6 @@ __LFSR Circuit:__
 
 ![schematic](https://user-images.githubusercontent.com/68592620/164975269-05ff7bd1-abdc-463d-b86c-6dc10ce21063.png)
 
-__D Flip Flop with Asynchronous Preset:__
-
-![FF](https://user-images.githubusercontent.com/68592620/164892097-4229472e-7e9d-448f-a428-de0d9267f3fe.png)
-
-__D Latch with Asynchronous Preset:__
-
-![latch](https://user-images.githubusercontent.com/68592620/164892172-cd4a91ba-1f76-4c44-93c5-7e5bf09662e6.png)
-
 ## Waveforms
 ▫️ The following waveforms were obtained in transient analysis of the given design.  
 ▫️ Simulation ran for 900ns.  
