@@ -4,7 +4,8 @@ This repository presents the design of LFSR implemented using Cadence virtuoso t
 This repository presents the IC design of a 4-Bit Linear Feedback Shift Register (LFSR) also known as Pseudo Random Binary Sequence Generator; on 90nm CMOS technology.
 This implementation is done on Cadence Virtuoso tool and gpdk90 library. It is basically a shift register with a linear function feedback. The generally used linear feedback function in LFSR is XOR. It has got many application such as counters, data bit generators, pattern generators, Pseudo random bit sequence generators as well as in data encryption & compression technologies. The working of design is verified using Circuit Schematic and Waveforms.  
 ## Tool used  
-
+![Picture1](https://user-images.githubusercontent.com/68592620/164977590-b3e1cb46-d1ee-4a0d-b034-904aa818d44f.png)  
+The Cadence® Virtuoso® System Design Platform is a holistic, system-based solution that provides the functionality to drive simulation and LVS-clean layout of ICs and packages from a single schematic. 
 ## Circuit-Description
 To make a 4-bit LFSR, first we need to make a 4 bit shift register. I have chosen 4 positive edge triggered D Flip-Flops with asynchronous preset inputs. This flipflop is a master-slave D latch combination. The D latch is made using CMOS Inverters, Buffers & Transmission gates for improved switching transients. Preset input is incoperated by the Latch hence by the flip flop. This asynchronous preset input is essential in order to generate the initial state of the bit pattern, which would help in better analysis of the output.  
 __Reference Circuit:__  
