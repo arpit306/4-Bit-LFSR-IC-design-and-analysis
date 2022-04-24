@@ -1,4 +1,4 @@
-# 4 Bit LFSR IC Design & Analysis
+# 4 Bit LFSR Design
 This repository presents the design of LFSR implemented using Cadence virtuoso tool on 90nm CMOS Technology.
 ## Abstract
 This repository presents the IC design of a 4-Bit Linear Feedback Shift Register (LFSR) also known as Pseudo Random Binary Sequence Generator; on 90nm CMOS technology.
