@@ -33,4 +33,5 @@ __D Latch with Asynchronous Preset:__
 
 ## Observation
 
-![observation](https://user-images.githubusercontent.com/68592620/164972618-c7a2287c-42f2-4a80-b3ab-e4e80bb2c227.png)
+![observation](https://user-images.githubusercontent.com/68592620/164976295-226e19d2-f77b-4186-8d32-d2a1101108ef.png)
+
