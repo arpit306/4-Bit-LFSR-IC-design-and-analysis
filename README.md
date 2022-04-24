@@ -12,7 +12,7 @@ The schematics of LFSR & respective circuits are shown below:
 
 __LFSR Circuit:__
 
-![schematic](https://user-images.githubusercontent.com/68592620/164891993-b400f0d0-ae36-46a1-8f71-74a1362a462d.png)
+![schematic](https://user-images.githubusercontent.com/68592620/164975269-05ff7bd1-abdc-463d-b86c-6dc10ce21063.png)
 
 __D Flip Flop with Asynchronous Preset:__
 
