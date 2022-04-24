@@ -19,6 +19,11 @@ __D Latch with Asynchronous Preset:__
 ![latch](https://user-images.githubusercontent.com/68592620/164892172-cd4a91ba-1f76-4c44-93c5-7e5bf09662e6.png)
 
 ## Waveforms
+▫️ The following waveforms were obtained in transient analysis of the given design.  
+▫️ Simulation run for 900ns.  
+▫️ Clock has period of 50ns & Pulse width is 25ns.  
+▫️ Preset signal is high initially to set the intial state of flip flops.  
+▫️ Analysis should be done after preset signal goes low.  
 
 ![wfm](https://user-images.githubusercontent.com/68592620/164970576-d4f0dc3c-4ad4-4008-a8ff-12c2d780bafd.png)
 
