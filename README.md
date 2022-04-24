@@ -20,7 +20,7 @@ __D Latch with Asynchronous Preset:__
 
 ## Waveforms
 ▫️ The following waveforms were obtained in transient analysis of the given design.  
-▫️ Simulation run for 900ns.  
+▫️ Simulation ran for 900ns.  
 ▫️ Clock has period of 50ns & Pulse width is 25ns.  
 ▫️ Preset signal is high initially to set the intial state of flip flops.  
 ▫️ Analysis should be done after preset signal goes low.  
